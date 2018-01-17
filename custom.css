@@ -1,0 +1,31 @@
+@import url("reveal.js/css/theme/simple.css");
+
+.reveal h1 {
+  font-size: 2em;
+}
+
+.reveal blockquote {
+  background: none;
+  border: none;
+  box-shadow: none;
+  font-style: normal;
+  width: 85%;
+}
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+}
+
+.reveal section img:hover {
+  border: none;
+  box-shadow: none;
+}
+
+.rendered_html pre {
+  box-shadow: none;
+}
+
+.input_prompt {
+  display: none;
+}
